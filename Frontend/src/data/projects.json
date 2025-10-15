@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Knitted Handicraft Mrketplace - weaveworks",
     "imageSrc": "project",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "A full-stack marketplace for knitted and handmade craft items. Sellers can list their handicrafts; buyers can browse, purchase, and review. Built for learning and real use.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://knitted-handicraft-marketplace-frontend.onrender.com/",
+    "source": "https://github.com/jeeswan/Knitted-Handicraft-Marketplace.git"
   },
   {
-    "title": "Project B",
+    "title": "A Face Recognition Attendence System - Attendify",
     "imageSrc": "project",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A system to automate attendance tracking using face recognition. Students (or users) are recognized via webcam / images; attendance is recorded without manual entry.",
+    "skills": ["HTML", "CSS", "Python", "Flask"],
+    "demo": "https://github.com/jeeswan/Face-Recognition-Attendance-System.git",
+    "source": "https://github.com/jeeswan/Face-Recognition-Attendance-System.git"
   },
   {
-    "title": "Project C",
+    "title": "Social Media App - Nexu(WIP)",
     "imageSrc": "project",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Nexu is a social media / networking application (or whatever your intended purpose) enabling users to create profiles, share content, follow each other, like & comment, etc.  ",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/jeeswan/Nexu.git",
+    "source": "https://github.com/jeeswan/Nexu.git"
   }
 ]
