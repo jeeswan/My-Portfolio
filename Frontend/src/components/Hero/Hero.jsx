@@ -7,7 +7,7 @@ const Hero = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Jeeswan</h1>
-            <p className={styles.description}>A passionate developer</p>
+            <p className={styles.description}>A passionate developer seeking an internship opportunity</p>
             <a href="mailto:bajrajeeswan@gmail.com" className={styles.contactbtn}>Contact Me</a>
         </div>
         <img src={assets.hero} alt="heroimage" className={styles.heroimg}/>
