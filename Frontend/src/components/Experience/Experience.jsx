@@ -17,7 +17,7 @@ const Experience = () => {
                 </div>
             })}
             </div>
-            <ul className={styles.history}>
+            {/* <ul className={styles.history}>
                 {
                     history.map((historyItem, id) => {
                         return <li key={id} className={styles.historyItem}>
@@ -34,7 +34,7 @@ const Experience = () => {
                         </li>
                     })
                 }
-            </ul>
+            </ul> */}
         </div>
     </section>
   )

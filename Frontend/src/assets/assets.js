@@ -16,6 +16,7 @@ import project from './projects/project.png';
 import email from './contact/emailIcon.png';
 import github from './contact/githubIcon.png';
 import linkedin from './contact/linkedinIcon.png';
+import myimg from './hero/myimg.png';
 
 const assets = {
   hero: HeroImg,
@@ -35,7 +36,8 @@ const assets = {
   project: project,
   email: email,
   github: github,
-  linkedin: linkedin
+  linkedin: linkedin,
+  myimg: myimg
 };
 
 export default assets;  

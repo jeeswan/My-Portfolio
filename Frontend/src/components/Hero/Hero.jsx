@@ -10,7 +10,7 @@ const Hero = () => {
             <p className={styles.description}>A developer who enjoys designing intuitive interfaces and bringing ideas to life through code.</p>
             <a href="mailto:bajrajeeswan@gmail.com" className={styles.contactbtn}>Contact Me</a>
         </div>
-        <img src={assets.hero} alt="heroimage" className={styles.heroimg}/>
+        <img src={assets.myimg} alt="heroimage" className={styles.myimg}/>
         <div className={styles.topBlur}></div>
         <div className={styles.bottomBlur}></div>
     </section>
