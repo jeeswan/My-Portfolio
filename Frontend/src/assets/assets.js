@@ -9,6 +9,7 @@ import react from './skills/react.png';
 import node from './skills/node.png';
 import mongo from './skills/mongodb.png';
 import figma from './skills/figma.png';
+import laravel from './skills/laravel.svg';
 import google from './history/google.png';
 import microsoft from './history/microsoft.png';
 import netflix from './history/netflix.png';
@@ -37,7 +38,8 @@ const assets = {
   email: email,
   github: github,
   linkedin: linkedin,
-  myimg: myimg
+  myimg: myimg,
+  laravel: laravel
 };
 
 export default assets;  

@@ -22,5 +22,9 @@
   {
     "title": "Figma",
     "imageSrc": "figma"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "laravel"
   }
 ]

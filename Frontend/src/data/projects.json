@@ -16,11 +16,11 @@
     "source": "https://github.com/jeeswan/Face-Recognition-Attendance-System.git"
   },
   {
-    "title": "Social Media App - Nexu(WIP)",
+    "title": "Synko - Collaborative Task Management Platform",
     "imageSrc": "project",
-    "description": "Nexu is a social media / networking application (or whatever your intended purpose) enabling users to create profiles, share content, follow each other, like & comment, etc.  ",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://github.com/jeeswan/Nexu.git",
-    "source": "https://github.com/jeeswan/Nexu.git"
+    "description": "Synko is a task and project management system with authentication, task tracking, and team collaboration features.",
+    "skills": ["React", "Laravel", "MySQL", "REST API", "Sanctum", "Authentication", "Role-Based Access"],
+    "demo": "https://synko-frontend.vercel.app/",
+    "source": "https://github.com/jeeswan/Synko-Frontend.git"
   }
 ]
