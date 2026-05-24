@@ -1,7 +1,7 @@
 [
   {
     "title": "Knitted Handicraft Mrketplace - weaveworks",
-    "imageSrc": "project",
+    "imageSrc": "knitted",
     "description": "A full-stack marketplace for knitted and handmade craft items. Sellers can list their handicrafts; buyers can browse, purchase, and review. Built for learning and real use.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://knitted-handicraft-marketplace-frontend.onrender.com/",
@@ -9,7 +9,7 @@
   },
   {
     "title": "A Face Recognition Attendence System - Attendify",
-    "imageSrc": "project",
+    "imageSrc": "attend",
     "description": "A system to automate attendance tracking using face recognition. Students (or users) are recognized via webcam / images; attendance is recorded without manual entry.",
     "skills": ["HTML", "CSS", "Python", "Flask"],
     "demo": "https://github.com/jeeswan/Face-Recognition-Attendance-System.git",
@@ -17,10 +17,18 @@
   },
   {
     "title": "Synko - Collaborative Task Management Platform",
-    "imageSrc": "project",
+    "imageSrc": "synko",
     "description": "Synko is a task and project management system with authentication, task tracking, and team collaboration features.",
     "skills": ["React", "Laravel", "MySQL", "REST API", "Sanctum", "Authentication", "Role-Based Access"],
     "demo": "https://synko-frontend.vercel.app/",
     "source": "https://github.com/jeeswan/Synko-Frontend.git"
+  }
+  {
+    "title": "SMS - Student Management Platform for ACHS",
+    "imageSrc": "sms",
+    "description": "SMS is a student management platform designed for ACHS, offering features for tracking student information, grades, and attendance.",
+    "skills": ["React", "Laravel", "MySQL", "REST API", "Sanctum", "Authentication", "Role-Based Access"],
+    "demo": "https://github.com/jeeswan/SMS.git",
+    "source": "https://github.com/jeeswan/SMS.git"
   }
 ]

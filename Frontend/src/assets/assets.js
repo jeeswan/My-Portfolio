@@ -14,6 +14,10 @@ import google from './history/google.png';
 import microsoft from './history/microsoft.png';
 import netflix from './history/netflix.png';
 import project from './projects/project.png';
+import knitted from './projects/Knitted.png';
+import attend from './projects/Attend.png';
+import synko from './projects/Synko.png';
+import sms from './projects/SMS.png';
 import email from './contact/emailIcon.png';
 import github from './contact/githubIcon.png';
 import linkedin from './contact/linkedinIcon.png';
@@ -35,6 +39,10 @@ const assets = {
   microsoft: microsoft,
   netflix: netflix,
   project: project,
+  knitted: knitted,
+  attend: attend,
+  synko: synko,
+  sms: sms,
   email: email,
   github: github,
   linkedin: linkedin,
