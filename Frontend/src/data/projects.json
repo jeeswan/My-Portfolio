@@ -27,7 +27,7 @@
     "title": "SMS - Student Management Platform for ACHS",
     "imageSrc": "sms",
     "description": "SMS is a student management platform designed for ACHS, offering features for tracking student information, grades, and attendance.",
-    "skills": ["React", "Laravel", "MySQL", "REST API", "Sanctum", "Authentication", "Role-Based Access"],
+    "skills": ["HTML", "CSS", "JavaScript", "Laravel", "MySQL", "REST API", "Authentication", "Role-Based Access"],
     "demo": "https://github.com/jeeswan/SMS.git",
     "source": "https://github.com/jeeswan/SMS.git"
   }
